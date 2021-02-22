@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalGame", "PersonalGame\PersonalGame.csproj", "{16B85567-DD76-4B77-81B5-482F993E485C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{025BDDC5-F5C0-4FC8-A5FB-A0C11ED31E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B85567-DD76-4B77-81B5-482F993E485C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B85567-DD76-4B77-81B5-482F993E485C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B85567-DD76-4B77-81B5-482F993E485C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B85567-DD76-4B77-81B5-482F993E485C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025BDDC5-F5C0-4FC8-A5FB-A0C11ED31E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025BDDC5-F5C0-4FC8-A5FB-A0C11ED31E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025BDDC5-F5C0-4FC8-A5FB-A0C11ED31E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025BDDC5-F5C0-4FC8-A5FB-A0C11ED31E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF5544D-7ED5-40B1-B273-176BC17B03AC}
+	EndGlobalSection
+EndGlobal
